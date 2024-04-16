@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bagusprimohadi
-- 👀 I’m interested in Python, MySQL, R, Kotlin, Matlab, Shell and IDL Programming Languages
-- 🌱 I’m currently learning android development, Meteorological Data Mapping in Python, Data Engineer and Data Science 
+- 👀 I’m interested in Python, Java, R, Kotlin, Matlab, Linux and IDL Programming Languages
+- 🌱 I’m currently learning Android Development and Data Science in Atmospheric & Oceanic Science 
 - 💞️ I’m looking to collaborate on anybody 
 - 📫 How to reach me you can visit my Instagram Account www.instagram.com/bagusprimohadi or via my email at bagus.primohadi38@gmail.com
 
